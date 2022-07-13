@@ -1,1 +1,1 @@
-console.log('this is a demo file');
+// this is the demo file
